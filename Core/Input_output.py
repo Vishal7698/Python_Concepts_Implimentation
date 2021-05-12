@@ -1,0 +1,11 @@
+print("Please give first input")
+x=input()
+print(type(x))
+print(x)
+print("Please give us second")
+y=input()
+print(type(y))
+print(y)
+z=x+y
+print(z)
+print(type(z))
